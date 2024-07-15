@@ -1,12 +1,29 @@
-👋 Hi, I’m @naimkatiman
-- 👀 I’m interested in full-stack development, AI, machine learning, and creating innovative tech solutions.
-- 🌱 I’m currently learning Docker, Lua, C++, Redis, and exploring stock market prediction with machine learning and sentiment analysis.
-- 💞️ I’m looking to collaborate on AI projects, full-stack development, and any initiatives that combine technology with meaningful impact.
-- 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/naimkatiman)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a TikTok influencer who loves creating educational content with use of generative AI.
+Good day👋, I'm Naim Katiman
 
-<!---
-naimkatiman/naimkatiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring full stack developer with a background in AI and machine learning, passionate about creating innovative tech solutions and enhancing user experiences.
+
+🔭 Currently self-employed at Tibyan Ai Sdn Bhd 
+
+🌱 Currently learning LLama 3, NLP, C++, and exploring new tools in Generative Ai.
+
+👯 To acquire hands-on experience with modern web technologies and collaborative project work
+
+🤝 Looking for opportunities in open source code contributions and impactful tech projects
+
+👨‍💻 All of my projects are available at [GitHub](https://github.com/naimkatiman)
+
+📫 Reach me at naimkatiman@tibyan.ai
+
+⚡ Fun fact: I'm a TikTok influencer who loves creating educational content using generative AI tools.
+
+Connect with me:
+[LinkedIn](https://www.linkedin.com/in/naimkatiman) |
+
+Languages and Tools:
+HTML5, CSS3, JavaScript, Bootstrap, Vue.js, React, Git, Linux, MongoDB, MySQL, Node.js, PHP, Laravel, Python, Firebase, GCP, Kafka, Redis, Docker, Android
+
+naimkatiman
+
+ naimkatiman
+
+naimkatiman
