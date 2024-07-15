@@ -19,8 +19,7 @@ Good day👋, I'm **Naim Katiman**
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/naimkatiman" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="naimkatiman" /></a>
-  <a href="https://twitter.com/naimkatiman" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="naimkatiman" /></a>
-</p>
+  
 
 ## Languages and Tools:
 <p align="left">
