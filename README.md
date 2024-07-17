@@ -4,7 +4,7 @@ Good day👋, I'm **Naim Katiman**
 
 🔭 Currently self-employed at **Tibyan Ai Sdn Bhd**
 
-🌱 Currently learning **LLama 3, NLP, C++,** and exploring new tools in **Generative Ai**.
+🌱 Currently exploring **Langchain, AutoGPT , CrewAi,** and exploring new tools in **Generative Ai**.
 
 👯 To acquire hands-on experience with modern web technologies and collaborative project work
 
