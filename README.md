@@ -29,9 +29,7 @@ I'm **Naim Katiman**, your friendly neighborhood **code-slinger** and **AI whisp
 
 ## ⚡ Plot Twist
 
-When not wrestling with code or sweet-talking AI, I'm a **TikTok sensation**, dropping knowledge bombs wrapped in catchy tunes and questionable dance moves. Come for the AI wisdom, stay for the awkward robot dance!
-
-Remember: In a world of 1s and 0s, be a 2. Unless you're debugging, then be a 1 or 0. But definitely not both. That's just confusing.
+Hold onto your keyboards, folks! This tech wizard didn't start in the hallowed halls of Computer Science. Nope, I'm a **social science and finance maverick** who took a detour through the **capital market** before diving into the digital realm. I traded stock charts for flowcharts and market analysis for data algorithms. Now, I'm on a mission to merge the best of both worlds – bringing a unique blend of human insight and machine intelligence to the tech scene. Who says you can't teach an old broker new tricks? 🎩💼➡️💻🤖
 
 ## Connect with me:
 <p align="left">
