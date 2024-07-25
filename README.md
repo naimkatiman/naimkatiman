@@ -1,20 +1,37 @@
-Good day👋, I'm **Naim Katiman**
+# 🚀 Greetings, Earthlings and AI Overlords! 👽
 
-**Aspiring full stack developer** with a background in **AI and machine learning**, passionate about creating innovative tech solutions and enhancing user experiences.
+I'm **Naim Katiman**, your friendly neighborhood **code-slinger** and **AI whisperer**!
 
-🔭 Currently self-employed at **Tibyan Ai Sdn Bhd**
+## 🧠 Profile.exe is loading...
 
-🌱 Currently exploring **Langchain, AutoGPT , CrewAi,** and exploring new tools in **Generative Ai**.
+- **Occupation:** Digital Alchemist transforming caffeine into code at **Tibyan Ai Sdn Bhd**
+- **Mission:** To boldly go where no developer has coded before
+- **Current Obsession:** Taming the wild beasts known as **Langchain**, **AutoGPT**, and **CrewAi** 
+- **Secret Identity:** TikTok edu-tainer, spreading the gospel of AI one viral dance at a time
 
-👯 To acquire hands-on experience with modern web technologies and collaborative project work
+## 🛠️ Toolbox of Tricks
 
-🤝 Looking for opportunities in **open source code contributions** and **impactful tech projects**
+- Full-stack sorcery (still leveling up)
+- AI and machine learning (because who doesn't want a robot army?)
+- Innovative tech solutions (or as I call them, "digital duct tape")
+- User experience enhancement (making apps so intuitive, even your grandma could launch a rocket)
 
-👨‍💻 All of my projects are available at [**GitHub**](https://github.com/naimkatiman)
+## 🎯 Quest Log
 
-📫 Reach me at **naimkatiman@tibyan.ai**
+- Seeking fellow adventurers for epic **open-source quests**
+- On a mission to contribute to **projects that'll make future historians say "Wow!"**
+- Always on the lookout for the next big thing in **Generative AI** (besides sentient toasters)
 
-⚡ Fun fact: I'm a **TikTok influencer** who loves creating educational content using **generative AI tools**.
+## 📡 Transmission Coordinates
+
+- **GitHub Lair:** [naimkatiman's Repository of Wonders](https://github.com/naimkatiman)
+- **Holographic Message Receptor:** naimkatiman@tibyan.ai
+
+## ⚡ Plot Twist
+
+When not wrestling with code or sweet-talking AI, I'm a **TikTok sensation**, dropping knowledge bombs wrapped in catchy tunes and questionable dance moves. Come for the AI wisdom, stay for the awkward robot dance!
+
+Remember: In a world of 1s and 0s, be a 2. Unless you're debugging, then be a 1 or 0. But definitely not both. That's just confusing.
 
 ## Connect with me:
 <p align="left">
