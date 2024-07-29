@@ -24,7 +24,7 @@ I'm **Naim Katiman**, your friendly neighborhood **code-slinger** and **AI whisp
 
 ## 📡 Transmission Coordinates
 
-- **GitHub Lair:** [naimkatiman's Repository of Wonders](https://github.com/naimkatiman)
+- **GitHub Lair:** [naimkatiman's Repository of Wonders](https://github.com/naimkatiman?tab=repositories)
 - **Holographic Message Receptor:** naimkatiman@tibyan.ai
 
 ## ⚡ Plot Twist
