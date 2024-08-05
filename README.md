@@ -6,7 +6,7 @@ I'm **Naim Katiman**, your friendly neighborhood **code-slinger** and **AI whisp
 
 - **Occupation:** Digital Alchemist transforming caffeine into code at **Tibyan Ai Sdn Bhd**
 - **Mission:** To boldly go where no developer has coded before
-- **Current Obsession:** Taming the wild beasts known as **Langchain**, **AutoGPT**, and **CrewAi** 
+- **Current Obsession:** Taming the wild beasts known as **HuggingFace**, **Langchain**, **AutoGPT**, and **CrewAi** 
 - **Secret Identity:** TikTok edu-tainer, spreading the gospel of Generative AI one viral tools at a time
 
 ## 🛠️ Toolbox of Tricks
