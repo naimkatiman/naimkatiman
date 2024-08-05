@@ -63,6 +63,7 @@ Hold onto your keyboards, folks! This tech wizard didn't start in the hallowed h
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-282A36?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
