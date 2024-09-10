@@ -4,9 +4,9 @@ I'm **Naim Katiman**, your friendly neighborhood **code-slinger** and **AI whisp
 
 ## 🧠 Profile.exe is loading...
 
-- **Occupation:** Digital Alchemist transforming caffeine into code at **Tibyan Ai Sdn Bhd**
+- **Occupation:** Digital Alchemist transforming caffeine into code at **RM Investment Bank Ltd**
 - **Mission:** To boldly go where no developer has coded before
-- **Current Obsession:** Taming the wild beasts known as **HuggingFace**, **Langchain**, **AutoGPT**, and **CrewAi** 
+- **Current Obsession:** Taming the wild beasts known as **HuggingFace**, **Langchain**, **AgentZero**, and **CrewAi** 
 - **Secret Identity:** TikTok edu-tainer, spreading the gospel of Generative AI one viral tools at a time
 
 ## 🛠️ Toolbox of Tricks
@@ -25,7 +25,7 @@ I'm **Naim Katiman**, your friendly neighborhood **code-slinger** and **AI whisp
 ## 📡 Transmission Coordinates
 
 - **GitHub Lair:** [naimkatiman's Repository of Wonders](https://github.com/naimkatiman?tab=repositories)
-- **Holographic Message Receptor:** naimkatiman@tibyan.ai
+- **Holographic Message Receptor:** naimkatiman@gmail.com
 
 ## ⚡ Plot Twist
 
