@@ -1,188 +1,185 @@
 <div align="center">
-  
-# 🚀 Greetings, Earthlings and AI Overlords! 👽
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=500&lines=Naim+Katiman;AI+Enthusiast+%26+Digital+Alchemist;Full-stack+Developer;Turning+caffeine+into+code" alt="Typing SVG" />
+# 🚀 Greetings, Digital Voyagers! 👽
 
-<a href="https://github.com/naimkatiman">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<!-- Typing SVG - Keep this, it's cool! -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF¢er=true&vCenter=true&random=false&width=500&lines=Naim+Katiman;AI+Enthusiast+%26+Digital+Alchemist;Full-stack+Developer;Turning+caffeine+into+code">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF¢er=true&vCenter=true&random=false&width=500&lines=Naim+Katiman;AI+Enthusiast+%26+Digital+Alchemist;Full-stack+Developer;Turning+caffeine+into+code" alt="Typing SVG" style="max-width: 100%;">
 </a>
 
+<!-- Engaging Header GIF -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/code-coding-programming-qgQUggAC3Pfv687qPC">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Matrix GIF" style="max-width: 100%;">
+</a>
+
+<!-- Social Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/naimkatiman" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/naimkatiman" rel="nofollow">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.naimkatiman.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website" />
+  <a href="https://www.naimkatiman.com" rel="nofollow">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website">
   </a>
   <a href="mailto:naimkatiman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+---
 
-## 🧠 `profile.exe` is loading...
+## 👨‍💻 About Me & The Plot Twist! ⚡
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk3ajIwa3l5ZDhncm1sbWR6Z21hZm0yZDJ3amM2c2N0Z3l3cXloZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif" width="480">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/theoffice-the-office-tv-episode-18-dX3dMAyBWYyAXWR1jC">
+  <img src="https://media.giphy.com/media/dX3dMAyBWYyAXWR1jC/giphy.gif" width="250" align="right" alt="Plot Twist GIF" style="max-width: 100%; margin-left: 15px;">
+</a>
 
-```javascript
-const profile = {
-  occupation: "Digital Alchemist at RM Investment Bank Ltd",
-  mission: "To boldly go where no developer has coded before",
-  currentObsession: ["HuggingFace", "Langchain", "AgentZero", "CrewAi"],
-  secretIdentity: "TikTok edu-tainer spreading the gospel of Generative AI"
-};
-```
-</div>
+I'm Naim, a **Digital Alchemist** currently conjuring solutions at **RM Investment Bank Ltd**. My mission? To boldly code where few have coded before!
 
-<!-- Animated Divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+Here's the twist: I didn't start in CompSci. I'm a **Social Science & Finance** graduate who navigated the **Malaysian Capital Market** before pivoting into the tech universe. 📈➡️💻
 
-## 🛠️ Toolbox of Tricks
+This unique journey allows me to blend **human-centric insights** with **data-driven logic**, aiming to create tech that's both powerful and intuitive. I'm passionate about **Full-Stack Development** and especially fascinated by the potential of **Artificial Intelligence**.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHcydGQxazg2aGN3eXF5NXhyazFrczZwbnNpNzhjb3VpdTcyY2JzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="500">
-</div>
+*   **Current Role:** Digital Alchemist @ RM Investment Bank Ltd
+*   **Core Mission:** Turning caffeine into clean, efficient code.
+*   **Secret Identity:** TikTok edu-tainer demystifying Generative AI.
+*   **Unique Blend:** Finance Acumen + Tech Skills = Innovative Solutions
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
-  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="70">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="70">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90">
-</p>
+<br clear="both"/>
+
+---
+
+## 🔭 Currently Exploring & Building With
 
 <div align="center">
-  
-* 🧙‍♂️ Full-stack sorcery (still leveling up)
-* 🤖 AI and machine learning (because who doesn't want a robot army?)
-* 🦄 Innovative tech solutions (or as I call them, "digital duct tape")
-* 🎮 User experience enhancement (making apps so intuitive, even your grandma could launch a rocket)
-  
-</div>
-
-## 📊 Tech Stack Mastery
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNzbWpsOXM5dXBldjZ0cDdtdjRmODVpYXBhYjlldGlzZ2VvamdjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
-</div>
-
-<!-- Programming Languages -->
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70" alt="JavaScript">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm16Ym5wNHFhMXAwNnExM2pubWM1dnBvdnFpOGw2NnF1anNsazRreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJzv5gG13bFsER6BbJ/giphy.gif" width="70" alt="TypeScript">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70" alt="Python">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2YzYzV6OTYwOThibnowMXhhZDZ5OWJoemd5dzh5bTN5ajR2MXdvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7Ik5hjrFQuxiPKFZp/giphy.gif" width="70" alt="PHP">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFpbHJsOXR0cGp1ZTJwMGt5OTRrM3V2OGVjMTIzY2VyYjB1dm5tayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqDcpPX8vWahUny0pE/giphy.gif" width="70" alt="C#">
-</p>
-
-<!-- Frontend -->
-<h3 align="center">Frontend Magic</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" alt="HTML5">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" alt="CSS3">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70" alt="React">
-  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="70" alt="Vue.js">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw3bnhsbnJqcXIxeTc1bndhYXB3OHV0NzgxZmF6cWM3YWJwNG56eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gblx9bOyKMTAqWMaqo/giphy.gif" width="70" alt="Next.js">
-</p>
-
-<!-- Backend & Databases -->
-<h3 align="center">Backend & Databases</h3>
-<p align="center">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="70" alt="Node.js">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnllcHYxemZib3RvcXIzN2ZwbHBkbWN5azJ4amo2c2NtMzg0ZWtseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnBXe38hDPUdN8rPe2/giphy.gif" width="70" alt="Laravel">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRmczY5Y2R6eXgyZGZobjl1OWlvODRsa2VrN3F2Mm1sMDVucDlncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEDIHHp3i8bVoEdxd7/giphy.gif" width="70" alt=".NET">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpjbGNzZGF5ejZ3bDA0eHd1emF4Z3A2YzN1dHYwZGpodGRiZ3RsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="70" alt="WordPress">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXgweG83MnBrdGE3NGJoN3F2Mm91eDQ3MHl5Ym10cXJjb3RoYXUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W71QxkQgCDM1WJYdFz/giphy.gif" width="70" alt="MySQL">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFuMmc3aHd6d3hoNng0andvMHFpbmpnd2tid3N3c3pxd3ZoMGEzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZhvduEq5hLNcY2V1hr/giphy.gif" width="70" alt="PostgreSQL">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRvcHcwMHV1aHRjMjgydGwyOG91MGlwam4yOHNxeHJiOHNheHE2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9GIE4bg4EV7UYFeP5e/giphy.gif" width="70" alt="MongoDB">
-</p>
-
-<!-- Cloud & AI -->
-<h3 align="center">Cloud & AI</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JidXNkcWIwZHNoZTF0d3VhNTNnMWh0djU4dmMyY3p5cHpuaW9vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8HgkqabhYyq8iRSp0/giphy.gif" width="70" alt="AWS">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NsbWJteXJiazd0eTQ3YXUxeTNuODhlbTV1MmZrOGY1bW1zYTdkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="70" alt="GCP">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl4ZHd1djI2ZDI4aHZ1eXRrdGQ3cW5uaHNiaDVoYWZzamxhMWJ6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1jWAaozWjlmGRGAH5d/giphy.gif" width="70" alt="Cloudflare">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVqZmNzcGJwNmg5ZjU5bWQ0OHZoaHRraHVoYWw1MGIyZXVvN2NlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CwTvSiWflgCGKgz5eb/giphy.gif" width="70" alt="Docker">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYyN2NsZ2NqN29odG5ndnllZDVkcTd0a3cwcW5jcTQzOHZlcGk2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lMtRuHxvKwJpwKxZy3/giphy.gif" width="70" alt="HuggingFace">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlhNXdmMGR0N25qanZsdDM2eHVhY2d0ZDJ2bjR6NXo5bzJkajdrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ffa4CCEjm1LbSXSFkg/giphy.gif" width="70" alt="ChatGPT">
-</p>
-
-<!-- Mobile & Tools -->
-<h3 align="center">Mobile & Tools</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl0ZHh2YXd3aHl0Yzg3cWJvdXdqc2l6YXFqZ2tiejRpYnBwOXJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6KGHbO7XLfhfD08JNV/giphy.gif" width="70" alt="Flutter">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ1cGVnZzdtdDY0d3Z4Zmtud2t3bnE5YXV0d3VsdWdmNnI2ZTV5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HVB4pmaLvPFJ8Qv3BO/giphy.gif" width="70" alt="Android">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" alt="Git">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkwNmk2bTcxdm9nYXFsYjA4ZGcyZG04dWVqaG4zNjJvNDBidXRodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDgDB3Um3c2YScU7WR/giphy.gif" width="70" alt="n8n">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU2cTQ5NjFqMW4xdm53bTl2ajY3eXlqd3Z2a2h3NmZ1bzRsZ3ZuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXLFiRUBQpti5zXMuY/giphy.gif" width="70" alt="Make">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNrN3V3eDhxaWc5emV6NmR5OXE2ZDJxc2ZpaGY5NGplZGo0cnVnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzWMTa0iE5XjbtNwgW/giphy.gif" width="70" alt="Telegram">
-</p>
-
-<!-- Animated Divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## 🎯 Quest Log
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgxZmFyNmR3a2Jkb3hhcTM1bHh6MWVmeDlhaXBlMnJzcHVqcm9jbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gRt8hYxingxIJeWsUc/giphy.gif" width="450">
-</div>
-
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimkatiman&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="330" />
-  
-  * 🧩 Seeking fellow adventurers for epic **open-source quests**
-  * 🏆 On a mission to contribute to **projects that'll make future historians say "Wow!"**
-  * 🔮 Always on the lookout for the next big thing in **Generative AI** (besides sentient toasters)
-  * 🧪 Experimenting with **AI agents** that can actually follow instructions
-  * 🤝 Collaborating on projects that bridge the gap between human creativity and machine intelligence
-</div>
-
-<!-- Animated Divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## 📡 Transmission Coordinates
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3MmV3aGNvZjJqd29wc3E3bW1ib3VwaW9odDhsb25vNGN5dWNkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIIhZliB2McAo/giphy.gif" width="450">
-  
-  <a href="https://github.com/naimkatiman?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=naimkatiman&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/studiosoriginals-coding-dev-developer-M9gbBd9nbDrOTu1Mqx">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="450" alt="Focused Coder GIF" style="max-width: 100%;">
   </a>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+My current digital playground revolves around the exciting world of AI and building intelligent systems. I'm particularly obsessed with:
 
-## ⚡ Plot Twist
+*   🤖 **AI Frameworks & Libraries:** **Langchain**, **CrewAI**, **AgentZero** – building autonomous agents and complex AI workflows.
+*   🤗 **Model Hubs & Tools:** **HuggingFace** – exploring and fine-tuning state-of-the-art models.
+*   🚀 **Open Source Quests:** Seeking collaborators for impactful projects.
+*   🧠 **Bridging Worlds:** Combining AI capabilities with practical, user-friendly applications.
+*   🧪 **Experimentation:** Pushing the boundaries of what AI agents can achieve.
 
-<div>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=naimkatiman&theme=radical&hide_border=true" alt="GitHub Streak" width="380" />
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZrajRxODNzYWI3eGQxa3V5ejJub2V5dWFudGltdDRjemx6anB2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornjIhZGFWpbcGMAU/giphy.gif" width="250" align="left">
-  
-  <p>Hold onto your keyboards, folks! This tech wizard didn't start in the hallowed halls of Computer Science. Nope, I'm a <b>social science and finance maverick</b> who took a detour through the <b>capital market</b> before diving into the digital realm.</p>
-  
-  <p>I traded stock charts for flowcharts and market analysis for data algorithms. Now, I'm on a mission to merge the best of both worlds – bringing a unique blend of human insight and machine intelligence to the tech scene.</p>
-  
-  <p>Who says you can't teach an old broker new tricks? 🎩💼➡️💻🤖</p>
-</div>
+---
 
-<br clear="both">
-
-<!-- Animated Divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+## 🛠️ My Digital Toolbox
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW53NXVwOG9td3hpd3QyYzZiYWMxbWYwajVoc3hleWRnMzMwZjRwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gutZ5Pm6Xl62snTRRb/giphy.gif" width="100">
-  <img src="https://komarev.com/ghpvc/?username=naimkatiman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/code-coding-computer-ZebTmyvw85gnm">
+    <img src="https://media.giphy.com/media/ZebTmyvw85gnm/giphy.gif" width="450" alt="Toolbox/Construction GIF" style="max-width: 100%;">
+  </a>
+</div>
+
+Here's a glimpse of the technologies I wield:
+
+**Programming Languages:**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
+
+**Frontend Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+**Backend & Databases:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+**Cloud, AI & DevOps:**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Langchain-00864B?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain"/> <!-- Custom color, may need adjustment -->
+</p>
+
+**Mobile & Other Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/n8n-1A81DB?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Make-6438A8?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/naimkatiman">
+  <img src="https://github-readme-stats.vercel.app/api?username=naimkatiman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Naim's GitHub Stats" style="max-width: 100%;"/>
+</a>
+<br/>
+
+<!-- Top Languages Card -->
+<a href="https://github.com/naimkatiman">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimkatiman&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="max-width: 100%;"/>
+</a>
+<br/>
+
+<!-- Streak Stats -->
+<a href="https://github.com/naimkatiman">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimkatiman&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 100%;"/>
+</a>
+<br/>
+
+<!-- Contribution Snake -->
+<a href="https://github.com/naimkatiman">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="max-width: 100%;">
+</a>
+<br/>
+
+<!-- GitHub Trophies -->
+<a href="https://github.com/naimkatiman?tab=repositories">
+  <img src="https://github-profile-trophy.vercel.app/?username=naimkatiman&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="max-width: 100%;">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <h3>Let's connect and build something amazing! ✨</h3>
+  <!-- Profile Views -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=naimkatiman">
+    <img src="https://komarev.com/ghpvc/?username=naimkatiman&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  </a>
+  <br/>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/transparent-Kirfs57jps7yE">
+    <img src="https://media.giphy.com/media/Kirfs57jps7yE/giphy.gif" width="100" alt="Thumbs Up GIF" style="max-width: 100%;">
+  </a>
 </div>
