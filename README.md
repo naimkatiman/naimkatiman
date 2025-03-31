@@ -31,8 +31,8 @@
 
 ## 👨‍💻 About Me & The Plot Twist! ⚡
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/theoffice-the-office-tv-episode-18-dX3dMAyBWYyAXWR1jC">
-  <img src="https://media.giphy.com/media/dX3dMAyBWYyAXWR1jC/giphy.gif" width="250" align="right" alt="Plot Twist GIF" style="max-width: 100%; margin-left: 15px;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/reaction-mood-plot-twist-l0IypeKl9NJhPFMrK">
+  <img src="https://media.giphy.com/media/l0IypeKl9NJhPFMrK/giphy.gif" width="250" align="right" alt="Plot Twist Animal GIF" style="max-width: 100%; margin-left: 15px;">
 </a>
 
 I'm Naim, a **Digital Alchemist** currently conjuring solutions at **RM Investment Bank Ltd**. My mission? To boldly code where few have coded before!
@@ -53,14 +53,14 @@ This unique journey allows me to blend **human-centric insights** with **data-dr
 ## 🔭 Currently Exploring & Building With
 
 <div align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/studiosoriginals-coding-dev-developer-M9gbBd9nbDrOTu1Mqx">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="450" alt="Focused Coder GIF" style="max-width: 100%;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-bGgsc5mWoryfgKBx1u">
+    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="450" alt="Modern Coding Cartoon GIF" style="max-width: 100%;">
   </a>
 </div>
 
 My current digital playground revolves around the exciting world of AI and building intelligent systems. I'm particularly obsessed with:
 
-*   🤖 **AI Frameworks & Libraries:** **Langchain**, **CrewAI**, **AgentZero** – building autonomous agents and complex AI workflows.
+*   🤖 **AI Frameworks & Libraries:** **Langchain**, **CrewAI**, **AgentZero**, **GooseAI**, **Swarm**, **Same.dev**, **n8n** – building autonomous agents and complex AI workflows.
 *   🤗 **Model Hubs & Tools:** **HuggingFace** – exploring and fine-tuning state-of-the-art models.
 *   🚀 **Open Source Quests:** Seeking collaborators for impactful projects.
 *   🧠 **Bridging Worlds:** Combining AI capabilities with practical, user-friendly applications.
@@ -173,13 +173,18 @@ Here's a glimpse of the technologies I wield:
 ---
 
 <div align="center">
-  <h3>Let's connect and build something amazing! ✨</h3>
+  <h3>404: Social Life Not Found 😂</h3>
+  
+  <p><i>When I'm not arguing with the compiler, I'm explaining to my Ai assistance why you needs to work harder.</i></p>
+  
   <!-- Profile Views -->
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=naimkatiman">
-    <img src="https://komarev.com/ghpvc/?username=naimkatiman&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=naimkatiman&label=Fellow%20Humans%20Trapped%20Here&color=0e75b6&style=flat-square" alt="Profile Views">
   </a>
   <br/>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/transparent-Kirfs57jps7yE">
-    <img src="https://media.giphy.com/media/Kirfs57jps7yE/giphy.gif" width="100" alt="Thumbs Up GIF" style="max-width: 100%;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://giphy.com/gifs/theoffice-the-office-tv-frame-toby-6nWhy3ulBL7GSCvKw6">
+    <img src="https://media.giphy.com/media/6nWhy3ulBL7GSCvKw6/giphy.gif" width="200" alt="Funny Programmer GIF" style="max-width: 100%;">
   </a>
+  
+  <p><b>Programming Status:</b> <i>Vibe coding since 2022</i> 🤦‍♂️</p>
 </div>
