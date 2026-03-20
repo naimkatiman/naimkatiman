@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Naim%20Katiman&fontSize=52&fontAlignY=36&desc=Capital%20Markets%20x%20AI%20Systems%20x%20Product%20Execution&descAlignY=58&animation=twinkling" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Tech Banner Animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;AI+Builder+%7C+Product+Operator+%7C+Automation+Mindset;Building+multiple+software+products+and+web+applications;Current+obsession%3A+OpenClaw+%2B+Claude+Code;Bots%2C+cloud+systems%2C+education+platforms%2C+and+AI+workflows;TradeClaw+is+incoming;Serious+execution.+Meme+energy." alt="Typing SVG" />
@@ -30,10 +30,13 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Tech Animation" />
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Tech Animation" />
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Tech Animation" />
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Tech Animation" />
+<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic/white" width="48" alt="Claude Code" />
 
 </div>
 
@@ -62,18 +65,15 @@ I don't build things to look technical. Everything ships with one goal:
 
 ## `current_obsession`
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o752ogcifnC3MECt2/giphy.gif" width="330" alt="Mad Scientist Build Mode GIF" />
-  <img src="https://media.giphy.com/media/SFmJGgungpDOnNpSdz/giphy.gif" width="330" alt="Terminal Overload GIF" />
-</div>
-
-<br/>
+<img src="https://media.giphy.com/media/3o752ogcifnC3MECt2/giphy.gif" width="280" align="right" alt="Mad Scientist Build Mode GIF" />
 
 - Building **multiple software products and web applications** simultaneously
 - Running on **OpenClaw + Claude Code** as the primary execution stack
 - Pushing **AI-assisted development** past what most think is possible
 - **Ship fast. Fix fast. Move again.**
 - **TradeClaw** is incoming
+
+<br clear="right"/>
 
 ---
 
@@ -122,7 +122,7 @@ Clean signal bot for BBMA traders. No noise.
 
 ## `what_i_build`
 
-<img src="https://media.giphy.com/media/1m4ukmk9Lu90At2FGu/giphy.gif" width="220" align="right" alt="One More Feature GIF" />
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="200" align="right" alt="This Is Fine GIF" />
 
 - **Telegram bots** — onboarding, rewards, gamification, referrals, engagement loops
 - **AI assistants** — turning messy workflows into repeatable systems
@@ -136,19 +136,15 @@ Clean signal bot for BBMA traders. No noise.
 
 ## `operator_mode`
 
-<div align="center">
-  <img src="https://media.giphy.com/media/aHiv481xki1WdhQonS/giphy.gif" width="260" alt="Bug vs Me GIF" />
-  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="260" alt="This Is Fine GIF" />
-  <img src="https://media.giphy.com/media/3o6ZtaiPZNzrmRQ6YM/giphy.gif" width="260" alt="No Sleep Build GIF" />
-</div>
-
-<br/>
-
 ```
 Me: I'll just build one small feature.
 Also me: launches a bot, web app, automation flow,
          and a new product idea in the same week.
 ```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="350" alt="This Is Fine Deploy Friday GIF" />
+</div>
 
 ---
 
@@ -162,11 +158,7 @@ Also me: launches a bot, web app, automation flow,
 
 ## `live_builder_feed`
 
-<div align="center">
-  <img src="https://media.giphy.com/media/R5dspTNJBVL51hiSN7/giphy.gif" width="760" alt="Terminal Animation" />
-</div>
-
-<br/>
+<img src="https://media.giphy.com/media/SFmJGgungpDOnNpSdz/giphy.gif" width="260" align="right" alt="Terminal Animation" />
 
 What's actually running:
 
@@ -178,15 +170,13 @@ What's actually running:
 - **Automation** that saves actual hours, not theoretical ones
 - **Multi-product execution** with meme-grade stamina
 
+<br clear="right"/>
+
 ---
 
 ## `operator_traits.json`
 
-<div align="center">
-  <img src="https://media.giphy.com/media/2rqEdFfkMzXmo/giphy.gif" width="230" alt="Brain Overclock GIF" />
-</div>
-
-<br/>
+<img src="https://media.giphy.com/media/2rqEdFfkMzXmo/giphy.gif" width="200" align="right" alt="Brain Overclock GIF" />
 
 ```json
 {
@@ -198,6 +188,8 @@ What's actually running:
   "energy": "serious builder with controlled chaos"
 }
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -224,28 +216,6 @@ What's actually running:
   <img src="https://github-profile-trophy.vercel.app/?username=naimkatiman&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 </a>
 
-<br/>
-
-<a href="https://github.com/naimkatiman">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</a>
-
-</div>
-
----
-
-## `meme_dump`
-
-<div align="center">
-  <img src="https://media.giphy.com/media/sNpgrhRUmhJhDQCceA/giphy.gif" width="250" alt="Client Wants Small Change GIF" />
-  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="250" alt="Deploy Friday GIF" />
-  <img src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif" width="250" alt="AI Did What GIF" />
-
-  <br/><br/>
-
-  <img src="https://media.giphy.com/media/J2F2sOPmoTjYy57spN/giphy.gif" width="250" alt="Another Side Project GIF" />
-  <img src="https://media.giphy.com/media/Hk2o5d4JBqzUAe4BG2/giphy.gif" width="250" alt="Fix In Production GIF" />
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="250" alt="Looks Easy Until Code GIF" />
 </div>
 
 ---
