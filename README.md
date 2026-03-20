@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Naim%20Katiman&fontSize=52&fontAlignY=36&desc=Capital%20Markets%20x%20AI%20Systems%20x%20Product%20Execution&descAlignY=58&animation=twinkling" width="100%" />
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100%" alt="Coding Animation" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;AI+Builder+%7C+Product+Operator+%7C+Automation+Mindset;Building+multiple+software+products+and+web+applications;Current+obsession%3A+OpenClaw+%2B+Claude+Code;Bots%2C+cloud+systems%2C+education+platforms%2C+and+AI+workflows;TradeClaw+is+incoming;Serious+execution.+Meme+energy." alt="Typing SVG" />
@@ -122,7 +122,7 @@ Clean signal bot for BBMA traders. No noise.
 
 ## `what_i_build`
 
-<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="200" align="right" alt="This Is Fine GIF" />
+<img src="https://media.giphy.com/media/1m4ukmk9Lu90At2FGu/giphy.gif" width="200" align="right" alt="Coding Grind GIF" />
 
 - **Telegram bots** — onboarding, rewards, gamification, referrals, engagement loops
 - **AI assistants** — turning messy workflows into repeatable systems
@@ -143,7 +143,7 @@ Also me: launches a bot, web app, automation flow,
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="350" alt="This Is Fine Deploy Friday GIF" />
+  <img src="https://media.giphy.com/media/3o6ZtaiPZNzrmRQ6YM/giphy.gif" width="350" alt="Exhausted But Still Going GIF" />
 </div>
 
 ---
