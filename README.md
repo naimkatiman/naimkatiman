@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Naim%20Katiman&fontSize=46&fontAlignY=38&desc=Capital%20Markets%20x%20AI%20Systems%20x%20Product%20Builds&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Naim%20Katiman&fontSize=48&fontAlignY=38&desc=Capital%20Markets%20x%20AI%20Systems%20x%20Product%20Execution&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+builder+with+a+capital+markets+brain;Building+bots%2C+workflows%2C+and+digital+products;Cloudflare+Workers+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+WordPress;Serious+systems.+Meme+energy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=900&color=00C2FF&center=true&vCenter=true&width=980&lines=AI+builder+with+a+capital+markets+brain;Building+multiple+software+products+and+web+apps;OpenClaw+%2B+Claude+Code+is+my+current+obsession;Bots%2C+automation%2C+education+products%2C+and+cloud+systems;Serious+execution.+Meme+energy." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Replace this with your own uploaded asset -->
-<img src="./assets/naim-3d-lab.gif" width="720" alt="Naim 3D AI Lab Banner" />
+<!-- Main 3D hero: replace with your own local asset for the best look -->
+<img src="./assets/naim-3d-ai-lab.gif" width="760" alt="Naim 3D AI Lab Banner" />
 
 <br/><br/>
 
@@ -22,6 +22,9 @@
 <a href="mailto:naimkatiman@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<a href="https://t.me/GoldTradersCommunityBot">
+  <img src="https://img.shields.io/badge/Telegram%20Bot-Gold%20Traders-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Gold Traders Community Bot"/>
+</a>
 
 </div>
 
@@ -29,42 +32,57 @@
 
 ## `whoami`
 
-I’m **Naim Katiman** — a builder sitting at the intersection of **finance, AI, automation, and digital product development**.
+<img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="220" align="right" alt="Typing Cat Meme GIF" />
 
-I didn’t come from the usual computer science conveyor belt.  
-My background started in **social science + finance**, then moved through the **Malaysian capital market**, and now lives deep inside **bots, agent workflows, cloud apps, education platforms, and AI-powered systems**.
+I’m **Naim Katiman** — a builder working at the intersection of **finance, AI, automation, and digital product execution**.
 
-That mix matters.
+I didn’t come from the standard computer science pipeline.  
+My background started in **social science + finance**, moved through the **Malaysian capital market**, and evolved into building **bots, agent workflows, cloud apps, education systems, and AI-powered products**.
 
-It means I don’t just build things that look technical.  
-I build things that are meant to **solve real business problems, simplify messy workflows, and actually get used**.
+That gives me an unfair advantage:
 
----
+- I understand **business logic**
+- I care about **real-world usability**
+- I build with **speed, leverage, and outcome in mind**
 
-## `current_focus.exe`
-
-- 🤖 Building **AI-driven bots**, agent workflows, and automation systems  
-- ☁️ Shipping tools with **Cloudflare Workers**, APIs, KV, R2, and event-driven logic  
-- 🧠 Exploring practical AI stacks around **OpenAI, LangChain, CrewAI, n8n, and workflow orchestration**
-- 📚 Creating **education platforms**, quiz systems, onboarding flows, and digital learning products
-- 💹 Translating **capital market logic** into usable digital products and internal tools
-- 😂 Keeping the build serious, but the vibe slightly unhinged
+<br clear="right"/>
 
 ---
 
-## `build_mode`
+## `current_patch_notes`
 
-These are the kinds of things I actually enjoy building:
-
-- **Telegram bots** with gamification, onboarding, referrals, leaderboards, and automation
-- **AI assistants** that turn messy processes into structured workflows
-- **Education platforms** using WordPress, LMS tools, and modern frontends
-- **React / Next.js products** with clean UX and practical business logic
-- **Internal tools & cloud automations** for teams that want less manual work and more leverage
+- 🤖 **Current obsession:** building multiple software products and web applications using **OpenClaw + Claude Code**
+- 🚀 **End-to-end product:** [Gold Traders Community Bot](https://t.me/GoldTradersCommunityBot)  
+  **Try it and get $30**
+- 🦞 **Incoming:** **TradeClaw**
+- ☁️ **Build style:** ship fast, automate hard, refine later
+- 😂 **Operating mood:** half product strategist, half terminal goblin
 
 ---
 
-## `stack_that_pays_the_bills`
+## `what_i_build`
+
+- **Telegram bots** with onboarding, gamification, referrals, rewards, and retention flows
+- **AI assistants** that turn messy workflows into repeatable systems
+- **Web apps** with practical business logic, not just pretty UI
+- **Education products** using LMS stacks, WordPress, React, and automation
+- **Cloud-native tools** using APIs, event-driven logic, storage, and edge deployment
+
+---
+
+## `builder_mode = on`
+
+I like building things that do at least one of these well:
+
+- remove manual work
+- make complex flows feel simple
+- turn ideas into usable products fast
+- combine **AI + UX + business logic** without overengineering
+- make normal people feel like the product is smarter than it should be
+
+---
+
+## `stack_that_gets_used`
 
 <div align="center">
 
@@ -74,47 +92,28 @@ These are the kinds of things I actually enjoy building:
 
 ---
 
-## `operator_traits`
-
-- **Product-minded**: I care whether it works in the real world
-- **Systems thinker**: I like connecting moving parts, not just shipping isolated features
-- **AI-native**: I actively build with modern AI tools instead of just talking about them
-- **Execution-heavy**: less theory, more deployed things
-- **Meme-compatible**: professional enough for business, chaotic enough for the internet
-
----
-
-## `github_stats.json`
+## `currently_locked_in_on`
 
 <div align="center">
-
-<a href="https://github.com/naimkatiman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimkatiman&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/naimkatiman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimkatiman&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=naimkatiman&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/naimkatiman">
-  <img src="https://github-profile-trophy.vercel.app/?username=naimkatiman&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-</a>
-
+  <img src="./assets/naim-terminal-loop.gif" width="680" alt="Animated terminal loop" />
 </div>
+
+- **AI agents & workflows**
+- **Cloudflare Workers**
+- **React / Next.js builds**
+- **WordPress-powered education platforms**
+- **bot architecture**
+- **automation that saves actual time**
+- **multi-product execution with meme-grade stamina**
 
 ---
 
-## `patch_notes`
+## `operator_traits.json`
 
-```txt
-Background: finance + people + systems
-Current form: AI builder / bot architect / product operator
-Default state: turning ambiguity into shipped output
+```json
+{
+  "thinking": ["systems", "product", "automation", "distribution"],
+  "background": ["finance", "capital markets", "human behavior", "technology"],
+  "default_mode": "turn ambiguity into shipped output",
+  "energy": "serious builder with controlled chaos"
+}
