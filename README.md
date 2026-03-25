@@ -120,25 +120,43 @@ Clean signal bot for BBMA traders. No noise.
 
 ---
 
-## 🔥 `featured_project`
+## 🔥 `featured_projects`
 
 <div align="center">
 
-[![TradeClaw](https://img.shields.io/badge/TradeClaw-Self--hosted%20AI%20Trading%20Signals-00E7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimkatiman/tradeclaw)
+### 🦞 tradeclaw-agent — CLI Signal Agent
 
-**Open-source AI trading signals for forex, crypto & metals. Self-hosted. Free forever.**
+[![tradeclaw-agent](https://img.shields.io/badge/tradeclaw--agent-CLI%20Trading%20Signal%20Agent-00E7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimkatiman/tradeclaw-agent)
+
+**Stop paying for signal services. Run your own. Delivers to Telegram, Discord, any webhook.**
+
+[![Stars](https://img.shields.io/github/stars/naimkatiman/tradeclaw-agent?style=social)](https://github.com/naimkatiman/tradeclaw-agent/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/naimkatiman/tradeclaw-agent/blob/main/LICENSE)
+
+```bash
+npx tradeclaw-agent onboard   # Interactive setup
+tradeclaw-agent start          # Run the agent daemon
+```
+
+[→ View on GitHub](https://github.com/naimkatiman/tradeclaw-agent) · [⭐ Star it](https://github.com/naimkatiman/tradeclaw-agent/stargazers)
+
+---
+
+### 📊 TradeClaw — Web Dashboard
+
+[![TradeClaw](https://img.shields.io/badge/TradeClaw-Self--hosted%20AI%20Trading%20Dashboard-34d399?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimkatiman/tradeclaw)
+
+**Open-source AI trading signals dashboard. Self-hosted. Free forever.**
 
 [![Stars](https://img.shields.io/github/stars/naimkatiman/tradeclaw?style=social)](https://github.com/naimkatiman/tradeclaw/stargazers)
-[![Forks](https://img.shields.io/github/forks/naimkatiman/tradeclaw?style=social)](https://github.com/naimkatiman/tradeclaw/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/naimkatiman/tradeclaw/blob/main/LICENSE)
 
 ```bash
 git clone https://github.com/naimkatiman/tradeclaw
 cp .env.example .env && docker compose up -d
-# Open http://localhost:3000 — done.
 ```
 
-[→ View TradeClaw on GitHub](https://github.com/naimkatiman/tradeclaw) · [⭐ Star it if it's useful](https://github.com/naimkatiman/tradeclaw/stargazers)
+[→ View on GitHub](https://github.com/naimkatiman/tradeclaw) · [⭐ Star it](https://github.com/naimkatiman/tradeclaw/stargazers) · [🌐 Live Demo](https://web-production-a5139.up.railway.app)
 
 </div>
 
