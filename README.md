@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100%" alt="Coding Animation" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;AI+Builder+%7C+Product+Operator+%7C+Automation+Mindset;Building+multiple+software+products+and+web+applications;Current+obsession%3A+OpenClaw+%2B+Claude+Code;Bots%2C+cloud+systems%2C+education+platforms%2C+and+AI+workflows;TradeClaw+is+incoming;Serious+execution.+Meme+energy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;AI+Builder+%7C+Product+Operator+%7C+Automation+Mindset;Building+multiple+software+products+and+web+applications;Current+obsession%3A+OpenClaw+%2B+Claude+Code;Bots%2C+cloud+systems%2C+education+platforms%2C+and+AI+workflows;TradeClaw+is+LIVE+—+open+source+AI+trading+signals;Serious+execution.+Meme+energy." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -71,7 +71,7 @@ I don't build things to look technical. Everything ships with one goal:
 - Running on **OpenClaw + Claude Code** as the primary execution stack
 - Pushing **AI-assisted development** past what most think is possible
 - **Ship fast. Fix fast. Move again.**
-- **TradeClaw** is incoming
+- **[TradeClaw](https://github.com/naimkatiman/tradeclaw)** — self-hosted AI trading signals, just shipped 🚀 ([⭐ star it](https://github.com/naimkatiman/tradeclaw))
 
 <br clear="right"/>
 
@@ -115,6 +115,30 @@ Clean signal bot for BBMA traders. No noise.
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 🔥 `featured_project`
+
+<div align="center">
+
+[![TradeClaw](https://img.shields.io/badge/TradeClaw-Self--hosted%20AI%20Trading%20Signals-00E7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimkatiman/tradeclaw)
+
+**Open-source AI trading signals for forex, crypto & metals. Self-hosted. Free forever.**
+
+[![Stars](https://img.shields.io/github/stars/naimkatiman/tradeclaw?style=social)](https://github.com/naimkatiman/tradeclaw/stargazers)
+[![Forks](https://img.shields.io/github/forks/naimkatiman/tradeclaw?style=social)](https://github.com/naimkatiman/tradeclaw/network)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/naimkatiman/tradeclaw/blob/main/LICENSE)
+
+```bash
+git clone https://github.com/naimkatiman/tradeclaw
+cp .env.example .env && docker compose up -d
+# Open http://localhost:3000 — done.
+```
+
+[→ View TradeClaw on GitHub](https://github.com/naimkatiman/tradeclaw) · [⭐ Star it if it's useful](https://github.com/naimkatiman/tradeclaw/stargazers)
 
 </div>
 
@@ -184,7 +208,7 @@ What's actually running:
   "thinking_style": ["systems", "product", "automation", "distribution"],
   "default_mode": "turn ambiguity into shipped output",
   "current_obsession": "OpenClaw + Claude Code",
-  "next_release": "TradeClaw",
+  "latest_release": "TradeClaw — live at github.com/naimkatiman/tradeclaw",
   "energy": "serious builder with controlled chaos"
 }
 ```
