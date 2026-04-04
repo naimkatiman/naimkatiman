@@ -44,13 +44,13 @@
 
 <img src="https://media.giphy.com/media/LmBsnpDCuturMhtLfw/giphy.gif" width="240" align="right" alt="Typing Chaos GIF" />
 
-I'm **Naim Katiman** — I skipped the CS conveyor belt entirely.
+I'm **Naim Katiman** - I skipped the CS conveyor belt entirely.
 
-Started in **social science + finance**, worked in the **Malaysian capital markets**, then made the completely rational decision to abandon all of that and go full degen into **bots, AI workflows, and shipping products nobody asked for** (but everyone ends up needing).
+Started in **social science + finance**, worked in the **Malaysian capital markets**, then made the completely rational decision mastering other domains to go full degen into **bots, AI workflows, and shipping products nobody asked for** (but everyone ends up needing).
 
 My superpower? I don't know enough computer science theory to be afraid of building things wrong. So I just build them until they work.
 
-67 public repos. Most of them deployed. Some of them useful. All of them built between midnight and fajr.
+67 public repos. Most of them deployed. Some of them useful. All of them built between midnight and dawn.
 
 <br clear="right"/>
 
@@ -60,7 +60,7 @@ My superpower? I don't know enough computer science theory to be afraid of build
 
 - Building **multiple products simultaneously** because apparently one existential crisis per project isn't enough
 - Running on **OpenClaw + Claude Code** — my AI co-founder who never argues about equity splits
-- Shipping **[TradeClaw](https://github.com/naimkatiman/tradeclaw)** — open-source AI trading signals that are free forever *(yes, free. no, I don't have a monetization plan. yes, I've been asked.)*
+- Shipping **[TradeClaw](https://github.com/naimkatiman/tradeclaw)** - open-source AI trading signals that are free forever *(yes, free. no, I don't have a monetization plan. yes, I've been asked.)*
 - Pushing **AI-assisted development** past what most people think is legal
 
 > **My actual workflow:** tell Claude what to build → argue with Claude about the implementation → Claude was right → ship it → repeat
@@ -75,9 +75,9 @@ My superpower? I don't know enough computer science theory to be afraid of build
 Monday:    "I'll just fix one small bug"
 Tuesday:   *launches a Telegram bot, rewrites the entire frontend,
             deploys to Railway, and creates 3 new repos*
-Wednesday: "why am I mass tired"
+Wednesday: "why am I tired"
 Thursday:  *does it again*
-Friday:    mass mass mass mass mass mass mass mass mass mass mass
+Friday:    That's working
 ```
 
 My doctor says I have "pathological shipping disorder."
@@ -91,7 +91,7 @@ I told him that's a feature, not a bug. He mass didn't laugh.
 
 ## `telegram_bots`
 
-*Yes, I build trading bots. No, I'm not a crypto bro. There's a difference.*
+*Yes, I build trading bots. No, I'm not a crypto bro. I'm crypto trader. There's a difference.*
 
 <div align="center">
 
@@ -150,22 +150,6 @@ cp .env.example .env && docker compose up -d
 [View on GitHub](https://github.com/naimkatiman/tradeclaw) · [Star it](https://github.com/naimkatiman/tradeclaw/stargazers) · [Live Demo](https://web-production-a5139.up.railway.app)
 
 ---
-
-### tradeclaw-agent — The CLI Companion
-
-[![tradeclaw-agent](https://img.shields.io/badge/tradeclaw--agent-CLI%20Trading%20Signal%20Agent-00E7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimkatiman/tradeclaw-agent)
-
-**Stop paying for signal services. Run your own. Your wallet will thank you.**
-
-[![Stars](https://img.shields.io/github/stars/naimkatiman/tradeclaw-agent?style=social)](https://github.com/naimkatiman/tradeclaw-agent/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/naimkatiman/tradeclaw-agent/blob/main/LICENSE)
-
-```bash
-npx tradeclaw-agent onboard   # mass Interactive setup mass
-tradeclaw-agent start          # Now go touch grass while the bot works
-```
-
-[View on GitHub](https://github.com/naimkatiman/tradeclaw-agent) · [Star it](https://github.com/naimkatiman/tradeclaw-agent/stargazers)
 
 </div>
 
