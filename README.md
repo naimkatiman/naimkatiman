@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Naim%20Katiman&fontSize=52&fontAlignY=36&desc=Capital%20Markets%20x%20AI%20Systems%20x%20Product%20Execution&descAlignY=58&animation=twinkling" width="100%" />
-
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100%" alt="Coding Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Naim%20Katiman&fontSize=52&fontAlignY=36&desc=Finance%20Dropout%20%E2%86%92%20AI%20Builder%20%E2%86%92%20Shipping%20Machine&descAlignY=58&animation=twinkling" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;AI+Builder+%7C+Product+Operator+%7C+Automation+Mindset;Building+multiple+software+products+and+web+applications;Current+obsession%3A+OpenClaw+%2B+Claude+Code;Bots%2C+cloud+systems%2C+education+platforms%2C+and+AI+workflows;TradeClaw+is+LIVE+—+open+source+AI+trading+signals;Serious+execution.+Meme+energy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;67+repos.+Zero+chill.;Built+trading+bots+before+I+learned+what+a+REST+API+was;My+AI+co-founder+never+argues+about+equity;TradeClaw+is+LIVE+%E2%80%94+open+source+AI+trading+signals;I+mass+ship+products+the+way+people+open+browser+tabs;Serious+execution.+Questionable+sleep+schedule." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,18 +44,13 @@
 
 <img src="https://media.giphy.com/media/LmBsnpDCuturMhtLfw/giphy.gif" width="240" align="right" alt="Typing Chaos GIF" />
 
-I'm **Naim Katiman** — builder at the intersection of **finance, AI, automation, and product execution**.
+I'm **Naim Katiman** — I skipped the CS conveyor belt entirely.
 
-No standard CS conveyor belt. Started in **social science + finance**, moved through the **Malaysian capital market**, then went deep into **bots, AI workflows, web apps, cloud logic, and education systems**.
+Started in **social science + finance**, worked in the **Malaysian capital markets**, then made the completely rational decision to abandon all of that and go full degen into **bots, AI workflows, and shipping products nobody asked for** (but everyone ends up needing).
 
-That mix is the edge.
+My superpower? I don't know enough computer science theory to be afraid of building things wrong. So I just build them until they work.
 
-I don't build things to look technical. Everything ships with one goal:
-
-- Solve a real problem
-- Kill manual work
-- Make complex flows feel effortless
-- Turn ideas into live products, fast
+67 public repos. Most of them deployed. Some of them useful. All of them built between midnight and fajr.
 
 <br clear="right"/>
 
@@ -65,19 +58,40 @@ I don't build things to look technical. Everything ships with one goal:
 
 ## `current_obsession`
 
-<img src="https://media.giphy.com/media/3o752ogcifnC3MECt2/giphy.gif" width="280" align="right" alt="Mad Scientist Build Mode GIF" />
+- Building **multiple products simultaneously** because apparently one existential crisis per project isn't enough
+- Running on **OpenClaw + Claude Code** — my AI co-founder who never argues about equity splits
+- Shipping **[TradeClaw](https://github.com/naimkatiman/tradeclaw)** — open-source AI trading signals that are free forever *(yes, free. no, I don't have a monetization plan. yes, I've been asked.)*
+- Pushing **AI-assisted development** past what most people think is legal
 
-- Building **multiple software products and web applications** simultaneously
-- Running on **OpenClaw + Claude Code** as the primary execution stack
-- Pushing **AI-assisted development** past what most think is possible
-- **Ship fast. Fix fast. Move again.**
-- **[TradeClaw](https://github.com/naimkatiman/tradeclaw)** — self-hosted AI trading signals, just shipped 🚀 ([⭐ star it](https://github.com/naimkatiman/tradeclaw))
+> **My actual workflow:** tell Claude what to build → argue with Claude about the implementation → Claude was right → ship it → repeat
 
-<br clear="right"/>
+<br/>
+
+---
+
+## `operator_mode`
+
+```
+Monday:    "I'll just fix one small bug"
+Tuesday:   *launches a Telegram bot, rewrites the entire frontend,
+            deploys to Railway, and creates 3 new repos*
+Wednesday: "why am I mass tired"
+Thursday:  *does it again*
+Friday:    mass mass mass mass mass mass mass mass mass mass mass
+```
+
+My doctor says I have "pathological shipping disorder."
+I told him that's a feature, not a bug. He mass didn't laugh.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaiPZNzrmRQ6YM/giphy.gif" width="350" alt="Exhausted But Still Going GIF" />
+</div>
 
 ---
 
 ## `telegram_bots`
+
+*Yes, I build trading bots. No, I'm not a crypto bro. There's a difference.*
 
 <div align="center">
 
@@ -91,11 +105,8 @@ I don't build things to look technical. Everything ships with one goal:
 
 **Gold Traders Community Bot**
 
-Full end-to-end product. Try it and get **$30**.
-
-<a href="https://t.me/GoldTradersCommunityBot">
-  <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="280" alt="Gold Trading Animation" />
-</a>
+Full end-to-end product with onboarding, rewards, and gamification.
+Try it and get **$30**. I'm literally paying you to use my bot.
 
 </td>
 <td align="center" width="50%">
@@ -106,11 +117,8 @@ Full end-to-end product. Try it and get **$30**.
 
 **BBMA Pro Signal Bot**
 
-Clean signal bot for BBMA traders. No noise.
-
-<a href="https://t.me/BBMAProSignalBot">
-  <img src="https://media.giphy.com/media/3o6Ztah2Jo4BQReDIs/giphy.gif" width="280" alt="Signal Trading Animation" />
-</a>
+Clean signals for BBMA traders. No noise, no hype, no mass "TO THE MOON" energy.
+Just data.
 
 </td>
 </tr>
@@ -120,33 +128,15 @@ Clean signal bot for BBMA traders. No noise.
 
 ---
 
-## 🔥 `featured_projects`
+## `featured_projects`
 
 <div align="center">
 
-### 🦞 tradeclaw-agent — CLI Signal Agent
-
-[![tradeclaw-agent](https://img.shields.io/badge/tradeclaw--agent-CLI%20Trading%20Signal%20Agent-00E7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimkatiman/tradeclaw-agent)
-
-**Stop paying for signal services. Run your own. Delivers to Telegram, Discord, any webhook.**
-
-[![Stars](https://img.shields.io/github/stars/naimkatiman/tradeclaw-agent?style=social)](https://github.com/naimkatiman/tradeclaw-agent/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/naimkatiman/tradeclaw-agent/blob/main/LICENSE)
-
-```bash
-npx tradeclaw-agent onboard   # Interactive setup
-tradeclaw-agent start          # Run the agent daemon
-```
-
-[→ View on GitHub](https://github.com/naimkatiman/tradeclaw-agent) · [⭐ Star it](https://github.com/naimkatiman/tradeclaw-agent/stargazers)
-
----
-
-### 📊 TradeClaw — Web Dashboard
+### TradeClaw — The One I Won't Shut Up About
 
 [![TradeClaw](https://img.shields.io/badge/TradeClaw-Self--hosted%20AI%20Trading%20Dashboard-34d399?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimkatiman/tradeclaw)
 
-**Open-source AI trading signals dashboard. Self-hosted. Free forever.**
+**Open-source AI trading signals. Self-hosted. Free forever. No, seriously.**
 
 [![Stars](https://img.shields.io/github/stars/naimkatiman/tradeclaw?style=social)](https://github.com/naimkatiman/tradeclaw/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/naimkatiman/tradeclaw/blob/main/LICENSE)
@@ -154,90 +144,81 @@ tradeclaw-agent start          # Run the agent daemon
 ```bash
 git clone https://github.com/naimkatiman/tradeclaw
 cp .env.example .env && docker compose up -d
+# congratulations, you mass now mass mass mass mass have mass a trading dashboard
 ```
 
-[→ View on GitHub](https://github.com/naimkatiman/tradeclaw) · [⭐ Star it](https://github.com/naimkatiman/tradeclaw/stargazers) · [🌐 Live Demo](https://web-production-a5139.up.railway.app)
+[View on GitHub](https://github.com/naimkatiman/tradeclaw) · [Star it](https://github.com/naimkatiman/tradeclaw/stargazers) · [Live Demo](https://web-production-a5139.up.railway.app)
+
+---
+
+### tradeclaw-agent — The CLI Companion
+
+[![tradeclaw-agent](https://img.shields.io/badge/tradeclaw--agent-CLI%20Trading%20Signal%20Agent-00E7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimkatiman/tradeclaw-agent)
+
+**Stop paying for signal services. Run your own. Your wallet will thank you.**
+
+[![Stars](https://img.shields.io/github/stars/naimkatiman/tradeclaw-agent?style=social)](https://github.com/naimkatiman/tradeclaw-agent/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/naimkatiman/tradeclaw-agent/blob/main/LICENSE)
+
+```bash
+npx tradeclaw-agent onboard   # mass Interactive setup mass
+tradeclaw-agent start          # Now go touch grass while the bot works
+```
+
+[View on GitHub](https://github.com/naimkatiman/tradeclaw-agent) · [Star it](https://github.com/naimkatiman/tradeclaw-agent/stargazers)
 
 </div>
 
 ---
 
-## `what_i_build`
+## `what_i_actually_build`
 
-<img src="https://media.giphy.com/media/1m4ukmk9Lu90At2FGu/giphy.gif" width="200" align="right" alt="Coding Grind GIF" />
-
-- **Telegram bots** — onboarding, rewards, gamification, referrals, engagement loops
-- **AI assistants** — turning messy workflows into repeatable systems
-- **Web applications** — business logic meets usable UX
-- **Education platforms** — LMS stacks, WordPress, React, automation
-- **Cloud-native tools** — APIs, storage, edge logic, event-driven workflows
-
-<br clear="right"/>
+| What | Translation |
+|------|-------------|
+| **Telegram bots** | Onboarding, rewards, gamification — basically I build addiction loops but for trading |
+| **AI workflows** | I mass mass mass mass automate myself out of a job every Tuesday |
+| **Web applications** | Next.js all day. If it mass mass has a URL, I probably built it mass at 3am |
+| **Education platforms** | LMS stacks, WordPress, React — because knowledge should be free (my sleep isn't) |
+| **Cloud-native tools** | APIs, Cloudflare Workers, event-driven mass workflows that I'll forget how they work in 6 months |
 
 ---
 
-## `operator_mode`
+## `known_issues.md`
 
 ```
-Me: I'll just build one small feature.
-Also me: launches a bot, web app, automation flow,
-         and a new product idea in the same week.
+BUG-001: Will mass overengineer a Telegram bot for 12 users          [WONTFIX]
+BUG-002: mass Cannot stop mass starting new projects                  [BY DESIGN]
+BUG-003: Has mass mass mass too many browser tabs open right now      [ACCEPTED]
+BUG-004: Thinks "just one more feature" at 2am is reasonable          [CRITICAL]
+BUG-005: Malaysian mass — all code in English, all debugging in Malay [FEATURE]
+BUG-006: mass mass mass 67 repos and mass counting                   [WONTFIX]
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaiPZNzrmRQ6YM/giphy.gif" width="350" alt="Exhausted But Still Going GIF" />
-</div>
 
 ---
 
 ## `stack`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,vue,tailwind,nodejs,express,cloudflare,docker,postgres,mysql,mongodb,firebase,wordpress,flutter,dotnet,git,github,aws,gcp&perline=8" />
+
+*Technologies I actually use daily (the other 47 I listed on LinkedIn don't count)*
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,docker,postgres,cloudflare,git,github,aws&perline=7" />
+
+<br/><br/>
+
+*Technologies I mass mass have mass mass touched at least once and mass mass mass mass now mass claim expertise in*
+
+<img src="https://skillicons.dev/icons?i=php,vue,express,mysql,mongodb,firebase,wordpress,flutter,dotnet,gcp&perline=5" />
+
 </div>
-
----
-
-## `live_builder_feed`
-
-<img src="https://media.giphy.com/media/SFmJGgungpDOnNpSdz/giphy.gif" width="260" align="right" alt="Terminal Animation" />
-
-What's actually running:
-
-- **AI workflows** that do the thinking before I touch the keyboard
-- **Cloudflare Workers** handling edge logic at scale
-- **React / Next.js** for everything user-facing
-- **WordPress + LMS** builds for education systems
-- **Telegram bot systems** with real engagement mechanics
-- **Automation** that saves actual hours, not theoretical ones
-- **Multi-product execution** with meme-grade stamina
-
-<br clear="right"/>
-
----
-
-## `operator_traits.json`
-
-<img src="https://media.giphy.com/media/2rqEdFfkMzXmo/giphy.gif" width="200" align="right" alt="Brain Overclock GIF" />
-
-```json
-{
-  "background": ["finance", "capital markets", "human behavior", "technology"],
-  "thinking_style": ["systems", "product", "automation", "distribution"],
-  "default_mode": "turn ambiguity into shipped output",
-  "current_obsession": "OpenClaw + Claude Code",
-  "latest_release": "TradeClaw — live at github.com/naimkatiman/tradeclaw",
-  "energy": "serious builder with controlled chaos"
-}
-```
-
-<br clear="right"/>
 
 ---
 
 ## `github_stats()`
 
 <div align="center">
+
+*Numbers don't lie. My sleep schedule does.*
 
 <a href="https://github.com/naimkatiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimkatiman&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
@@ -262,18 +243,20 @@ What's actually running:
 
 ---
 
-## `final_form`
+## `return_statement`
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Neon Wave Animation" />
 
-### 404: Chill Mode Not Found
+> *"Most people have a side project graveyard. I have a side project army — and they're all deployed."*
 
-I build end-to-end products, automate the messy parts, and immediately start the next one.
+If you scrolled this far, you're either hiring me, stealing my ideas, or just vibing.
+
+All three are welcome. Star a repo on your way out.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider" />
 
-<img src="https://komarev.com/ghpvc/?username=naimkatiman&label=People%20who%20walked%20into%20the%20lab&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=naimkatiman&label=People%20who%20wandered%20into%20the%20lab&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
