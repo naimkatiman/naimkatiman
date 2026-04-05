@@ -147,7 +147,7 @@ cp .env.example .env && docker compose up -d
 # congratulations, you mass now mass mass mass mass have mass a trading dashboard
 ```
 
-[View on GitHub](https://github.com/naimkatiman/tradeclaw) · [Star it](https://github.com/naimkatiman/tradeclaw/stargazers) · [Live Demo](https://web-production-a5139.up.railway.app)
+[View on GitHub](https://github.com/naimkatiman/tradeclaw) · [Star it](https://github.com/naimkatiman/tradeclaw/stargazers) · [Live Demo](https://tradeclaw.win)
 
 ---
 
