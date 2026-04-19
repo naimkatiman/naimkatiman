@@ -50,7 +50,7 @@ Started in **social science + finance**, worked in the **Malaysian capital marke
 
 My superpower? I don't know enough computer science theory to be afraid of building things wrong. So I just build them until they work.
 
-67 public repos. Most of them deployed. Some of them useful. All of them built between midnight and dawn.
+67 public repos. Most of them deployed. Some of them useful. Some of them built between midnight and dawn.
 
 <br clear="right"/>
 
