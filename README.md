@@ -60,7 +60,7 @@ My superpower? I don't know enough computer science theory to be afraid of build
 
 - Building **multiple products simultaneously** because apparently one existential crisis per project isn't enough
 - Running on **OpenClaw + Claude Code** — my AI co-founder who never argues about equity splits
-- Shipping **[TradeClaw](https://github.com/naimkatiman/tradeclaw)** - open-source AI trading signals that are free forever *(yes, free. no, I don't have a monetization plan. yes, I've been asked.)*
+- Shipping **[TradeClaw](https://github.com/naimkatiman/tradeclaw)** - open-source AI trading signals that are free forever *(yes, free with the basic one ==)*
 - Pushing **AI-assisted development** past what most people think is legal
 
 > **My actual workflow:** tell Claude what to build → argue with Claude about the implementation → Claude was right → ship it → repeat
