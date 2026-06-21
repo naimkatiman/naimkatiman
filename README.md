@@ -63,7 +63,7 @@ My superpower? I don't know enough computer science theory to be afraid of build
 - Shipping **[TradeClaw](https://github.com/naimkatiman/tradeclaw)** - open-source AI trading signals that are free forever *(yes, free with the basic one ==)*
 - Pushing **AI-assisted development** past what most people think is legal
 
-> **My actual workflow:** tell Claude what to build → argue with Claude about the implementation → Claude was right → ship it → repeat
+> **My actual workflow:** tell Claude what to build → argue with Claude about the implementation → ask Codex “Claude is making this plan, help me roast it” → Codex roasts it → I go back to Claude smugly → Claude calmly explains why Codex is wrong → Claude was right → ship it → repeat
 
 <br/>
 
