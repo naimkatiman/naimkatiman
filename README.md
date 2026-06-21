@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Naim%20Katiman&fontSize=52&fontAlignY=36&desc=Finance%20Dropout%20%E2%86%92%20AI%20Builder%20%E2%86%92%20Shipping%20Machine&descAlignY=58&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Naim%20Katiman&fontSize=52&fontAlignY=36&desc=Finance%20Career%20%E2%86%92%20AI%20Builder%20%E2%86%92%20Shipping%20Machine&descAlignY=58&animation=twinkling" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;67+repos.+Zero+chill.;Built+trading+bots+before+I+learned+what+a+REST+API+was;My+AI+co-founder+never+argues+about+equity;TradeClaw+is+LIVE+%E2%80%94+open+source+AI+trading+signals;I+mass+ship+products+the+way+people+open+browser+tabs;Serious+execution.+Questionable+sleep+schedule." alt="Typing SVG" />
