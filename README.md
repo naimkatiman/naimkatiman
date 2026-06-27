@@ -50,7 +50,7 @@ Started in **social science + finance**, worked in the **Malaysian capital marke
 
 My superpower? I don't know enough computer science theory to be afraid of building things wrong. So I just build them until they work.
 
-67 public repos. Most of them deployed. Some of them useful. Some of them built between midnight and dawn.
+75++ public repos. Most deployed, some useful, some built between midnight and dawn while arguing with bugs. Some are active, some are just chilling in GitHub like unused gym equipment. But the goal was never to look busy, it’s to keep building, learning, shipping, and maybe accidentally create something useful along the way. 😄
 
 <br clear="right"/>
 
