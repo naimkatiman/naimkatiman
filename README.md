@@ -59,7 +59,7 @@ My superpower? I don't know enough computer science theory to be afraid of build
 ## `current_obsession`
 
 - Building **multiple products simultaneously** because apparently one existential crisis per project isn't enough
-- Running on **OpenClaw + Claude Code** — my AI co-founder who never argues about equity splits
+- Running on **Hermes Agent + Claude Code** — my AI co-founder who never argues about equity splits
 - Shipping **[TradeClaw](https://github.com/naimkatiman/tradeclaw)** - open-source AI trading signals that are free forever *(yes, free with the basic one ==)*
 - Pushing **AI-assisted development** past what most people think is legal
 
