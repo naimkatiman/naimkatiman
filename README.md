@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Naim%20Katiman&fontSize=52&fontAlignY=36&desc=Social%20Science%20%E2%86%92%20AI%20Finance%20Career%20%E2%86%92%20AI%20Builder%20%E2%86%92%20Shipping%20Machine&descAlignY=58&animation=twinkling" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;67+repos.+Zero+chill.;Built+trading+bots+before+I+learned+what+a+REST+API+was;My+AI+co-founder+never+argues+about+equity;TradeClaw+is+LIVE+%E2%80%94+open+source+AI+trading+signals;I+mass+ship+products+the+way+people+open+browser+tabs;Serious+execution.+Questionable+sleep+schedule." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;75%2B+repos.+Zero+chill.;Built+trading+bots+before+I+learned+what+a+REST+API+was;My+AI+co-founder+never+argues+about+equity;GoldTraders+and+Robo+are+LIVE+flagships;I+ship+products+the+way+people+open+browser+tabs;Serious+execution.+Questionable+sleep+schedule." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,17 +13,17 @@
 <a href="https://www.linkedin.com/in/naimkatiman">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.naimkatiman.com">
+<a href="https://naimkatiman.org">
   <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
 </a>
 <a href="mailto:naimkatiman@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://t.me/GoldTradersCommunityBot">
-  <img src="https://img.shields.io/badge/Gold%20Traders%20App-Try%20it%20%26%20get%20%2430-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Gold Traders Community Bot"/>
+  <img src="https://img.shields.io/badge/GoldTraders-Live%20flagship-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="GoldTraders live flagship"/>
 </a>
-<a href="https://t.me/BBMAProSignalBot">
-  <img src="https://img.shields.io/badge/BBMA%20Pro%20Signal%20Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="BBMA Pro Signal Bot"/>
+<a href="https://t.me/RbfxSupportBot">
+  <img src="https://img.shields.io/badge/Robo%20Multi--Persona%20RAG-Live%20flagship-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Robo Multi-Persona RAG live flagship"/>
 </a>
 
 <br/><br/>
@@ -46,11 +46,11 @@
 
 I'm **Naim Katiman** - I skipped the CS conveyor belt entirely.
 
-Started in **social science + finance**, worked in the **Malaysian capital markets**, then made the completely rational decision mastering other domains to go full degen into **bots, AI workflows,[...]
+Started in **social science + finance**, worked in the **Malaysian capital markets**, then made the completely rational decision to master other domains and go full degen into **bots, AI workflows, and production software**.
 
 My superpower? I don't know enough computer science theory to be afraid of building things wrong. So I just build them until they work.
 
-75++ public repos. Most deployed, some useful, some built between midnight and dawn while arguing with bugs. Some are active, some are just chilling in GitHub like unused gym equipment. But the goal was never to look busy, it’s to keep building, learning, shipping, and maybe accidentally create something useful along the way. 😄
+75++ repos across public and private work. Some are deployed, some useful, some built between midnight and dawn while arguing with bugs. Some are active, some are just chilling in GitHub like unused gym equipment. The goal was never to look busy. It is to keep building, learning, shipping, and maybe accidentally create something useful along the way.
 
 <br clear="right"/>
 
@@ -60,7 +60,8 @@ My superpower? I don't know enough computer science theory to be afraid of build
 
 - Building **multiple products simultaneously** because apparently one existential crisis per project isn't enough
 - Running on **Hermes Agent + Claude Code** — my AI co-founder who never argues about equity splits
-- Shipping **[TradeClaw](https://github.com/naimkatiman/tradeclaw)** - open-source AI trading signals that are free forever *(yes, free with the basic one ==)*
+- Operating **[GoldTraders](https://t.me/GoldTradersCommunityBot)** and **[Robo Multi-Persona RAG](https://t.me/RbfxSupportBot)** as the two live flagships
+- Running **[TradeClaw](https://tradeclaw.win)** in Research mode
 - Pushing **AI-assisted development** past what most people think is legal
 
 > **My actual workflow:** tell Claude what to build → argue with Claude about the implementation → ask Codex “Claude is making this plan, help me roast it” → Codex roasts it → I go back to Claude smugly → Claude calmly explains why Codex is wrong → Claude was right → ship it → repeat
@@ -81,7 +82,7 @@ Friday:    That's working
 ```
 
 My doctor says I have "pathological shipping disorder."
-I told him that's a feature, not a bug. He mass didn't laugh.
+I told him that's a feature, not a bug. He didn't laugh.
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o6ZtaiPZNzrmRQ6YM/giphy.gif" width="350" alt="Exhausted But Still Going GIF" />
@@ -89,9 +90,9 @@ I told him that's a feature, not a bug. He mass didn't laugh.
 
 ---
 
-## `telegram_bots`
+## `live_flagships`
 
-*Yes, I build trading bots. No, I'm not a crypto bro. I'm crypto trader. There's a difference.*
+*Yes, I build trading bots. No, I'm not a crypto bro. I'm a crypto trader. There's a difference.*
 
 <div align="center">
 
@@ -100,25 +101,27 @@ I told him that's a feature, not a bug. He mass didn't laugh.
 <td align="center" width="50%">
 
 <a href="https://t.me/GoldTradersCommunityBot">
-  <img src="https://img.shields.io/badge/LAUNCH-Gold%20Traders%20Community%20Bot-FFD700?style=for-the-badge&logo=telegram&logoColor=white" alt="Gold Traders Bot"/>
+  <img src="https://img.shields.io/badge/LIVE-GoldTraders-FFD700?style=for-the-badge&logo=telegram&logoColor=white" alt="GoldTraders"/>
 </a>
 
-**Gold Traders Community Bot**
+**GoldTraders**
 
-Full end-to-end product with onboarding, rewards, and gamification.
-Try it and get **$30**. I'm literally paying you to use my bot.
+Live flagship for trader onboarding, community workflows, rewards, contests, and production operations.
+
+[Product case study](https://naimkatiman.org/projects/goldtraders-portal/) · [Open the live bot](https://t.me/GoldTradersCommunityBot)
 
 </td>
 <td align="center" width="50%">
 
-<a href="https://t.me/BBMAProSignalBot">
-  <img src="https://img.shields.io/badge/LAUNCH-BBMA%20Pro%20Signal%20Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="BBMA Bot"/>
+<a href="https://t.me/RbfxSupportBot">
+  <img src="https://img.shields.io/badge/LIVE-Robo%20Multi--Persona%20RAG-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Robo Multi-Persona RAG"/>
 </a>
 
-**BBMA Pro Signal Bot**
+**Robo Multi-Persona RAG**
 
-Clean signals for BBMA traders. No noise, no hype, no mass "TO THE MOON" energy.
-Just data.
+Live flagship AI support system combining multiple personas, RAG, bge-m3 embeddings, and a knowledge graph for contextual retrieval.
+
+[Open the live bot](https://t.me/RbfxSupportBot)
 
 </td>
 </tr>
@@ -128,30 +131,27 @@ Just data.
 
 ---
 
-## `featured_projects`
+## `research_and_secondary_work`
 
 <div align="center">
 
-### TradeClaw — The One I Won't Shut Up About
+### [TradeClaw](https://tradeclaw.win)
 
-[![TradeClaw](https://img.shields.io/badge/TradeClaw-Self--hosted%20AI%20Trading%20Dashboard-34d399?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimkatiman/tradeclaw)
+**Research mode.** An active environment for testing AI-assisted market research and trading-signal workflows.
 
-**Open-source AI trading signals. Self-hosted. Free forever. No, seriously.**
+### [stox.my](https://stox.my)
 
-[![Stars](https://img.shields.io/github/stars/naimkatiman/tradeclaw?style=social)](https://github.com/naimkatiman/tradeclaw/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/naimkatiman/tradeclaw/blob/main/LICENSE)
-
-```bash
-git clone https://github.com/naimkatiman/tradeclaw
-cp .env.example .env && docker compose up -d
-# congratulations, you mass now mass mass mass mass have mass a trading dashboard
-```
-
-[View on GitHub](https://github.com/naimkatiman/tradeclaw) · [Star it](https://github.com/naimkatiman/tradeclaw/stargazers) · [Live Demo](https://tradeclaw.win)
+Secondary portfolio work focused on Malaysian investor analytics and AI alpha discovery.
 
 ---
 
 </div>
+
+---
+
+## `collaboration`
+
+I support development with [BizJaya](https://bizjaya.com/) across [FinQuest](https://finquest.io/en) and [FinNews](https://finnews.io/en). [Devon Vejay](https://www.linkedin.com/in/devon-vejay/) is the primary contributor. My role is supporting, not lead.
 
 ---
 
@@ -160,22 +160,22 @@ cp .env.example .env && docker compose up -d
 | What | Translation |
 |------|-------------|
 | **Telegram bots** | Onboarding, rewards, gamification — basically I build addiction loops but for trading |
-| **AI workflows** | I mass mass mass mass automate myself out of a job every Tuesday |
-| **Web applications** | Next.js all day. If it mass mass has a URL, I probably built it mass at 3am |
+| **AI workflows** | I automate myself out of a job every Tuesday |
+| **Web applications** | Next.js all day. If it has a URL, I probably built it at 3am |
 | **Education platforms** | LMS stacks, WordPress, React — because knowledge should be free (my sleep isn't) |
-| **Cloud-native tools** | APIs, Cloudflare Workers, event-driven mass workflows that I'll forget how they work in 6 months |
+| **Cloud-native tools** | APIs, Cloudflare Workers, event-driven workflows that I'll forget how they work in 6 months |
 
 ---
 
 ## `known_issues.md`
 
 ```
-BUG-001: Will mass overengineer a Telegram bot for 12 users          [WONTFIX]
-BUG-002: mass Cannot stop mass starting new projects                  [BY DESIGN]
-BUG-003: Has mass mass mass too many browser tabs open right now      [ACCEPTED]
+BUG-001: Will overengineer a Telegram bot for 12 users               [WONTFIX]
+BUG-002: Cannot stop starting new projects                           [BY DESIGN]
+BUG-003: Has too many browser tabs open right now                    [ACCEPTED]
 BUG-004: Thinks "just one more feature" at 2am is reasonable          [CRITICAL]
-BUG-005: Malaysian mass — all code in English, all debugging in Malay [FEATURE]
-BUG-006: mass mass mass 67 repos and mass counting                   [WONTFIX]
+BUG-005: Malaysian: all code in English, all debugging in Malay      [FEATURE]
+BUG-006: 75++ repos and counting                                     [WONTFIX]
 ```
 
 ---
@@ -186,13 +186,17 @@ BUG-006: mass mass mass 67 repos and mass counting                   [WONTFIX]
 
 *Technologies I actually use daily (the other 47 I listed on LinkedIn don't count)*
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,docker,postgres,cloudflare,git,github,aws&perline=7" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,react,nextjs,astro,flutter,tailwind,nodejs,docker,postgres,mongodb,cloudflare,git,github,aws&perline=9" alt="Primary stack: JavaScript, TypeScript, Python, Go, React, Next.js, Astro, Flutter, Tailwind CSS, Node.js, Docker, PostgreSQL, MongoDB, Cloudflare, Git, GitHub, and AWS" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
 
 <br/><br/>
 
-*Technologies I mass mass have mass mass touched at least once and mass mass mass mass now mass claim expertise in*
+*Technologies I have touched at least once and now claim expertise in*
 
-<img src="https://skillicons.dev/icons?i=php,vue,express,mysql,mongodb,firebase,wordpress,flutter,dotnet,gcp&perline=5" />
+<img src="https://skillicons.dev/icons?i=php,vue,express,mysql,firebase,wordpress,dotnet,gcp&perline=4" alt="Additional stack: PHP, Vue, Express, MySQL, Firebase, WordPress, .NET, and Google Cloud" />
 
 </div>
 
