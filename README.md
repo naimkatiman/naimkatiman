@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Naim%20Katiman&fontSize=52&fontAlignY=36&desc=Social%20Science%20%E2%86%92%20AI%20Finance%20Career%20%E2%86%92%20AI%20Builder%20%E2%86%92%20Shipping%20Machine&descAlignY=58&animation=twinkling" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;75%2B+repos.+Zero+chill.;Built+trading+bots+before+I+learned+what+a+REST+API+was;My+AI+co-founder+never+argues+about+equity;GoldTraders+and+Robo+are+LIVE+flagships;I+ship+products+the+way+people+open+browser+tabs;Serious+execution.+Questionable+sleep+schedule." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=00E7FF&center=true&vCenter=true&width=1100&lines=Naim+Katiman;Building+products+and+open-source+tools;Built+trading+bots+before+I+learned+what+a+REST+API+was;My+AI+co-founder+never+argues+about+equity;GoldTraders+and+Robo+are+LIVE+flagships;I+ship+products+the+way+people+open+browser+tabs;Serious+execution.+Questionable+sleep+schedule." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,11 +46,13 @@
 
 I'm **Naim Katiman** - I skipped the CS conveyor belt entirely.
 
+**Head of IT Asia · Lead Full Stack Developer at RM Investment Bank Ltd.** I lead technology across Asia and stay hands-on with product engineering.
+
 Started in **social science + finance**, worked in the **Malaysian capital markets**, then made the completely rational decision to master other domains and go full degen into **bots, AI workflows, and production software**.
 
 My superpower? I don't know enough computer science theory to be afraid of building things wrong. So I just build them until they work.
 
-75++ repos across public and private work. Some are deployed, some useful, some built between midnight and dawn while arguing with bugs. Some are active, some are just chilling in GitHub like unused gym equipment. The goal was never to look busy. It is to keep building, learning, shipping, and maybe accidentally create something useful along the way.
+My work spans live products, research environments and prototypes. Some are built between midnight and dawn while arguing with bugs. The goal was never to look busy. It is to keep building, learning, shipping, and maybe accidentally create something useful along the way.
 
 <br clear="right"/>
 
@@ -137,7 +139,7 @@ Live flagship AI support system combining multiple personas, RAG, bge-m3 embeddi
 
 ### [TradeClaw](https://tradeclaw.win)
 
-**Research mode.** An active environment for testing AI-assisted market research and trading-signal workflows.
+**Open-source research mode.** An active environment for testing AI-assisted market research and trading-signal workflows.
 
 ### [stox.my](https://stox.my)
 
@@ -152,6 +154,46 @@ Secondary portfolio work focused on Malaysian investor analytics and AI alpha di
 ## `collaboration`
 
 I support development with [BizJaya](https://bizjaya.com/) across [FinQuest](https://finquest.io/en) and [FinNews](https://finnews.io/en). [Devon Vejay](https://www.linkedin.com/in/devon-vejay/) is the primary contributor. My role is supporting, not lead.
+
+---
+
+## `current_public_work`
+
+### Developer tools
+
+| Work | Status | What it does |
+|------|--------|--------------|
+| [Weekly AI Usage](https://github.com/naimkatiman/weekly-ai-usage) | Desktop preview, Windows and macOS | Shows AI account allowances and opens Codex or Claude Code in a selected project. Account details stay hidden by default. |
+| [Premium Agent Skills](https://github.com/naimkatiman/premium-agent-skills) | Open source | Reusable agent skills for repository reviews and original animated avatar design. |
+| [Continuous Improvement](https://github.com/naimkatiman/continuous-improvement) | Open source | Tools for AI coding assistants to investigate before editing, verify their work and reuse lessons. |
+| [HalalFlow](https://github.com/naimkatiman/halalflow) | Open source | An approval-workflow engine for mosque and Islamic-finance operations, separate from the MosRev marketplace. |
+
+### Product work
+
+| Work | Status | What it does |
+|------|--------|--------------|
+| [Trading Hub](https://trading-hub-bot.com/) | Deployed Telegram Mini App | Brings market context, charts, research tools and community workflows together. |
+| [R Connect](https://rconnect--demo.expo.app/demo) | Public read-only demo | A bilingual member experience for knowledge, events and related member journeys. |
+| [Qur'an Tadabbur](https://qurantadabbur.com/) | Online | Guided Qur'an reflection and personal study, with saved reflections. |
+| [MosRev](https://mosrev.com/) | MVP | A Malay-language site for discovering mosque spaces, classes and services. |
+| [Dr. Saeed Foudah Study](https://drsaeedfoudah.com/) | Preview, private review | Bilingual study with source-linked answers and reading paths. |
+| [BedsideLoop](https://bedsideloop.com/) | Online practice app | Simulated patient conversations for MMed and PACES, with formative feedback. |
+| [TradeLikePro](https://tradelikepro.win/) | Development preview | A trading workflow interface for daily planning and research tools. |
+| [TraderMatchup](https://tradermatchup.com/) | Public website | Indonesian trading education with Telegram entry points. |
+
+[DrawCircle](https://t.me/DrawCircleRoboBot) is a Telegram group-draw pilot. [Bagus Bo](https://t.me/BagusBoBot) connects Indonesian member journeys with SprintBo and SprintPro contests.
+
+### Islamic-finance prototypes
+
+| Work | Status | What it explores |
+|------|--------|------------------|
+| [TakafulCompare](https://takafulcompare-production.up.railway.app/) | Educational demo | Comparing takaful protection and understanding coverage. |
+| [SukukScope](https://sukukscope-production.up.railway.app/) | Research demo | Exploring sukuk issuances and issuer information. |
+| [FatwaLens](https://fatwalens-production.up.railway.app/) | Prototype | Browsing Islamic-finance rulings and source references. |
+| [ZakatOS](https://zakatos-production.up.railway.app/) | Prototype | Estimating portfolio zakat and purification amounts. |
+| [ShariahAPI](https://shariahapi-production.up.railway.app/) | API demo landing | Explainable asset-screening API prototype. |
+
+These demos use sample data. They are research and educational prototypes, with no claim of regulatory approval or scholarly validation.
 
 ---
 
@@ -175,7 +217,6 @@ BUG-002: Cannot stop starting new projects                           [BY DESIGN]
 BUG-003: Has too many browser tabs open right now                    [ACCEPTED]
 BUG-004: Thinks "just one more feature" at 2am is reasonable          [CRITICAL]
 BUG-005: Malaysian: all code in English, all debugging in Malay      [FEATURE]
-BUG-006: 75++ repos and counting                                     [WONTFIX]
 ```
 
 ---
@@ -209,7 +250,7 @@ BUG-006: 75++ repos and counting                                     [WONTFIX]
 *Numbers don't lie. My sleep schedule does.*
 
 <a href="https://github.com/naimkatiman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimkatiman&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimkatiman&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="Public GitHub activity" />
 </a>
 <a href="https://github.com/naimkatiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimkatiman&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
@@ -237,7 +278,7 @@ BUG-006: 75++ repos and counting                                     [WONTFIX]
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Neon Wave Animation" />
 
-> *"Most people have a side project graveyard. I have a side project army — and they're all deployed."*
+> *"Some work is live. Some is research. Some is still a prototype."*
 
 If you scrolled this far, you're either hiring me, stealing my ideas, or just vibing.
 
